@@ -1,26 +1,45 @@
 {
   "pages": {
-    "/_not-found": [
-      "static/chunks/webpack-63427a1c47861965.js",
-      "static/chunks/fd9d1056-c7082c319cc53ced.js",
-      "static/chunks/69-c292296505fe2927.js",
-      "static/chunks/main-app-654242c6e6294726.js",
-      "static/chunks/app/_not-found-bd7d7a8ca562cd4d.js"
-    ],
     "/layout": [
-      "static/chunks/webpack-63427a1c47861965.js",
-      "static/chunks/fd9d1056-c7082c319cc53ced.js",
-      "static/chunks/69-c292296505fe2927.js",
-      "static/chunks/main-app-654242c6e6294726.js",
-      "static/css/3cbd70ff48da2307.css",
-      "static/chunks/app/layout-3cf63552d08f337d.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
     ],
     "/page": [
-      "static/chunks/webpack-63427a1c47861965.js",
-      "static/chunks/fd9d1056-c7082c319cc53ced.js",
-      "static/chunks/69-c292296505fe2927.js",
-      "static/chunks/main-app-654242c6e6294726.js",
-      "static/chunks/app/page-9a523ca6079a7572.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/page.js"
+    ],
+    "/dashboard/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/dashboard/layout.js"
+    ],
+    "/dashboard/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/dashboard/page.js"
+    ],
+    "/template": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/template.js"
+    ],
+    "/dashboard/template": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/dashboard/template.js"
+    ],
+    "/dashboard/about/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/dashboard/about/page.js"
+    ],
+    "/dashboard/settings/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/dashboard/settings/page.js"
     ]
   }
 }
