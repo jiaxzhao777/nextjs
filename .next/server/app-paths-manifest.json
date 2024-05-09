@@ -1,4 +1,7 @@
 {
+  "/@analytics/page-views/page": "app/@analytics/page-views/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/@analytics/visitors/page": "app/@analytics/visitors/page.js",
+  "/page": "app/page.js",
   "/dashboard/page": "app/dashboard/page.js"
 }

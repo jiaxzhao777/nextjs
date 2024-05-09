@@ -52,7 +52,7 @@ export interface PageProps {
 }
 export interface LayoutProps {
   children?: React.ReactNode
-
+  analytics: React.ReactNode
   params?: any
 }
 
