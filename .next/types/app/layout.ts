@@ -53,6 +53,7 @@ export interface PageProps {
 export interface LayoutProps {
   children?: React.ReactNode
   analytics: React.ReactNode
+  team: React.ReactNode
   params?: any
 }
 
